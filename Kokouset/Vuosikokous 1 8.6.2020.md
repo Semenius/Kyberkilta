@@ -1,10 +1,15 @@
 ## 1. kokouksen avaus
-Kellonaika: 
+
+Kellonaika:
+
 Paikallaolijat: 
 ## 2. valitaan kokouksen puheenjohtaja, sihteeri, kaksi pöytäkirjantarkastajaa ja tarvittaessa kaksi ääntenlaskijaa
 Puheenjohtaja:
+
 Sihteeri:
+
 Kaksipöytäkirjan tarkastajaa:
+
 ## 3. todetaan kokouksen laillisuus ja päätösvaltaisuus
 ## 4. hyväksytään kokouksen työjärjestys
 ## 5. esitetään tilinpäätös, vuosikertomus ja toiminnantarkastajien lausunto
