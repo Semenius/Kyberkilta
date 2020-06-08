@@ -5,7 +5,7 @@ Kellonaika: 17:07
 Paikallaolijat: Pyry Koskela  
                 Joni Lehtiniemi  
                 Thomas Semenius  
-                Aki Rahikkala 
+                Aki Rahikkala   
                 muut:  
                 Henry Muhonen(17:51 eteenpäin)
                 
