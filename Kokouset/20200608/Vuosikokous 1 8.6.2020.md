@@ -10,7 +10,7 @@ Paikallaolijat: Pyry Koskela
 ## 2. valitaan kokouksen puheenjohtaja, sihteeri, kaksi pöytäkirjantarkastajaa ja tarvittaessa kaksi ääntenlaskijaa
 Puheenjohtaja: Joni Lehtiniemi
 
-Sihteeri: Aki Rahikkala
+Sihteeri: Aki Rahikkala 
 
 Kaksipöytäkirjan tarkastajaa: Pyry Koskela, Thomas Semenius 
 
