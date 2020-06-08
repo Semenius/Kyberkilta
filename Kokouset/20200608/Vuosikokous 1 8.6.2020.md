@@ -1,8 +1,11 @@
 ## 1. kokouksen avaus
 
-Kellonaika:
+Kellonaika: 17:07
 
-Paikallaolijat: 
+Paikallaolijat: Pyry
+                Joni
+                Thomas
+                
 ## 2. valitaan kokouksen puheenjohtaja, sihteeri, kaksi pöytäkirjantarkastajaa ja tarvittaessa kaksi ääntenlaskijaa
 Puheenjohtaja:
 
