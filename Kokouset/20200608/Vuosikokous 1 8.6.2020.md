@@ -2,18 +2,20 @@
 
 Kellonaika: 17:07
 
-Paikallaolijat: Pyry
-                Joni
-                Thomas
+Paikallaolijat: Pyry Koskela
+                Joni Lehtiniemi
+                Thomas Semenius
+                Aki Rahikkala
                 
 ## 2. valitaan kokouksen puheenjohtaja, sihteeri, kaksi pöytäkirjantarkastajaa ja tarvittaessa kaksi ääntenlaskijaa
-Puheenjohtaja:
+Puheenjohtaja: Joni Lehtiniemi
 
-Sihteeri:
+Sihteeri: Aki Rahikkala
 
-Kaksipöytäkirjan tarkastajaa:
+Kaksipöytäkirjan tarkastajaa: Pyry Koskela, Thomas Semenius 
 
 ## 3. todetaan kokouksen laillisuus ja päätösvaltaisuus
+
 ## 4. hyväksytään kokouksen työjärjestys
 ## 5. esitetään tilinpäätös, vuosikertomus ja toiminnantarkastajien lausunto
 ## 6. päätetään tilinpäätöksen vahvistamisesta ja vastuuvapauden myöntämisestä hallitukselle ja muille vastuuvelvollisille
