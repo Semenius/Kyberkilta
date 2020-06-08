@@ -76,4 +76,4 @@ Killan toimintasuunnitelma (webbisivut, jäsenten hankinta, muu vastaava suhmuro
 
 Seuraava hallituksen kokous pidetään Elokuun loppuun mennessä. 
 
-Lopetetaan kokous klo 19:11.
+Päätetään kokous klo 19:11.
