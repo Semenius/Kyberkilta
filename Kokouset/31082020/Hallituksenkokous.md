@@ -1,0 +1,2 @@
+Syksyn toiminnan ohjelman suunnittelu
+Vastuualueet toiminnasta
