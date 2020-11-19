@@ -44,8 +44,8 @@ Hyväksytään.
   (https://kyberkilta.yhdistysavain.fi)
     
 ## 6. Seuraava kokous
-  Torstai 10.12.2020
-  Asialistaehdotus:
+  Torstai 10.12.2020  
+  Asialistaehdotus:  
     - Uuden hallituksen valitsemiseen liittyvät asiat
   
   
