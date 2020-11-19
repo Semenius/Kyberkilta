@@ -1,12 +1,12 @@
 ## 1. Kyberkillan hallituksen toisen kokouksen avaus 19.11.2020
 
-Kellonaika: 17.15
+Kellonaika: 17.18
 
 Paikallaolijat:   
 - Pyry Koskela  
 - Joni Lehtiniemi  
 - Thomas Semenius  
-- Aki Rahikkala   
+- Aki Rahikkala 17.25
 
                 
                 
@@ -14,7 +14,7 @@ Paikallaolijat:
 
 Puheenjohtaja: Joni Lehtiniemi
 
-Sihteeri: Aki Rahikkala 
+Sihteeri: Pyry Koskela 
 
 Kaksi pöytäkirjan tarkastajaa: Pyry Koskela, Thomas Semenius 
 
@@ -33,9 +33,22 @@ Työjärjestys:
 Hyväksytään.
 
 ## 5. Yhdistyksen jäsenrekisteri
-  - asd
-  - dads
+  - Käytetään yhdistysavain.fi -palvelua
+  - Jäseniltä kerättävät tiedot
+    - Koko nimi
+    - asuinpaikka
+    - sähköposti
+    - arvioitu valmistumisaika
+  - Uuden jäsenen sähköposti lisätään käsin, jäsen luo salasanan jälkeenpäin  
+    ja muuttaa loput tietonsa oikeiksi.
+  (https://kyberkilta.yhdistysavain.fi)
     
-## 6. Lopetus
+## 6. Seuraava kokous
+  Torstai 10.12.2020
+  Asialistaehdotus:
+    - Uuden hallituksen valitsemiseen liittyvät asiat
+  
+  
+## 7. Lopetus
 
-Päätetään kokous klo xx.xx.
+Päätetään kokous klo 18.30
