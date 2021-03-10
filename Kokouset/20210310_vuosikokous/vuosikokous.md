@@ -1,21 +1,18 @@
 ## 1. kokouksen avaus
 
-Kellonaika: 17:07
+Kellonaika: 17:
 
 Paikallaolijat: Pyry Koskela  
                 Joni Lehtiniemi  
-                Thomas Semenius  
-                Aki Rahikkala   
-                muut:  
-                Henry Muhonen(17:51 eteenpäin)
+                Teemu Pätsi                
                 
 ## 2. valitaan kokouksen puheenjohtaja, sihteeri, kaksi pöytäkirjantarkastajaa ja tarvittaessa kaksi ääntenlaskijaa
 
 Puheenjohtaja: Joni Lehtiniemi
 
-Sihteeri: Aki Rahikkala 
+Sihteeri: 
 
-Kaksi pöytäkirjan tarkastajaa: Pyry Koskela, Thomas Semenius 
+Kaksi pöytäkirjan tarkastajaa: 
 
 ## 3. todetaan kokouksen laillisuus ja päätösvaltaisuus
 
