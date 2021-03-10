@@ -29,51 +29,37 @@ Hyväksytään.
 
 Tiliä ei ole.
 
-Vuosikertomus:  
-Syksyllä 2019 kyberkillan toiminta aloitettiin syyslukukauden aikana ja toimintaa pidettiin viikottain. Kävijöitä oli keskimäärin n. 10/kerta. Toiminta keskittyi PicoCTF haasteiden tekemiseen. Keväällä kyberkilta toiminta virallistettiin 28.01.2020. Toiminta jäi keväällä tauolle Koronan takia. Viestintää on hoidettu pääosin Teams kanavan kautta.
+## Vuoden 2020 katselmointi (käsitelty ![06.02.2021 kokouksessa](Kokouset/20210206/Hallituksenkokous.md))
 
-Sääntöihin on keväällä tehty tarvittuja korjauksia seuraaviin kohtiin: 3. jäsenyys, 4. jäsenten erottaminen ja 10.5 tilinpäätös.  
-[linkki sääntömuutoksiin](korjauslomake_signed.pdf)
+- Vuonna 2020 Kyberkillasta tehtiin rekisteröity yhdistys
+- Alkuvuodesta 29.1-11.3. kokoontumisia JAMKin Relaamossa.
+- Koronarajoitusten vuoksi 16.3. JAMK siirtyi etäopetukseen jolloin yhdistyksen kokoontumiset loppuivat.
+- Toiminta jatkui syksyllä etänä Discord-palvelimella 16.9. alkaen.
+- Discord-toiminta lähti käyntiin osallistujamäärän osalta hyvin (yli 10 henkilöä/kokoontuminen), mutta määrä väheni syksyn edetessä.
+- Kyberkilta otti käyttöön Yhdistysavain-palvelun yhdistysasioiden hallintaan (jäsenrekisteri: https://kyberkilta.yhdistysavain.fi/)
+- Kyberkilta osallistui sovituilla jäsenillä penetraatiotestausharjoitukseen, jonka kohteena oli Liveto Group Oy.
+- 06.02.2021 Kyberkillalla on 7 rekisteröityä jäsentä.
+- 06.02.2021 Kyberkillan Discord-palvelimella 44 käyttäjää.
 
-Toiminnantarkastajien lausuntoa varten:  
-[linkki toiminnantarkastajien lausuntoon](toiminnantarkastuskertomus_Kkilta_Kevat2020.pdf)
-
-Hyväksytään esitysten mukaisesti.
 
 ## 6. päätetään tilinpäätöksen vahvistamisesta ja vastuuvapauden myöntämisestä hallitukselle ja muille vastuuvelvollisille
 
-Todetaan, että päätettävää ei ole.
+
 
 ## 7. vahvistetaan toimintasuunnitelma, tulo- ja menoarvio sekä liittymis- ja jäsenmaksun suuruus
 
-Lehtiniemi esittää: Liittymis- ja jäsenmaksun suuruus pidetään 0€.  
-Lehtiniemi esittää: Toimintasuunnitelma, tulo- ja menoarvio hyväksytään työjärjestyksen mukaisesti
 
-Esitykset hyväksytään yksimielisesti.
 
 ## 8. valitaan hallituksen puheenjohtaja ja muut jäsenet
 
-Uusi hallitus valitaan joulukuussa.  
+
 
 ## 9. valitaan yksi tai kaksi toiminnantarkastajaa ja varatoiminnantarkastajaa
 
-Esitetään: toiminnantarkastaja Henry Muhonen ja varatoiminnantarkastaja Ville Paananen.
 
-Hyväksytään.
 
 ## 10. käsitellään muut kokouskutsussa mainitut asiat.
 
 Työjärjestys:
 
-Toiminnan jatkuminen 2020 syksy - 2021:
 
-Killan toimintasuunnitelma (webbisivut, jäsenten hankinta, muu vastaava suhmurointi.)
-- 2020 otetaan jäsenlista käyttöön GDPR:n mukaisesti toimien.   
-- hankitaan webbisivut ja domain yhdistyksille. Webbisivuja tullaan käyttämään viralliseen toiminnasta tiedottamiseen.   
-- Arvioituja kuluja webbisivuun ja domainiin .com domainilla n. 8€/vuosi ja webihostauksella (alk. 4,99/kk?) ja hallinnolliset kulut mukaan lukien yhteensä n. 100€/vuosi.  
-- Avataan yhdistyksen tili  
-- Pyritään löytämään yhdistykselle sponsori(t) tai vastaava rahoituksen lähde
-
-Seuraava hallituksen kokous pidetään Elokuun loppuun mennessä. 
-
-Päätetään kokous klo 19:11.
