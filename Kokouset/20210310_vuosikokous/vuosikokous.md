@@ -5,11 +5,11 @@ Kellonaika: 17:04
 Paikallaolijat: Pyry Koskela  
                 Joni Lehtiniemi  
                 Teemu Pätsi     
-                Henry Muhonen 
-                Thomas Semenius 
-                Lassi Halkosaari 
-                Tuukka Bordi 
-                Aki Rahikkala liittyi 17:23
+                Henry Muhonen  
+                Thomas Semenius  
+                Lassi Halkosaari  
+                Tuukka Bordi  
+                Aki Rahikkala liittyi 17:23 
                 
 ## 2. valitaan kokouksen puheenjohtaja, sihteeri, kaksi pöytäkirjantarkastajaa ja tarvittaessa kaksi ääntenlaskijaa
 
