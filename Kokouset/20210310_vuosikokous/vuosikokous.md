@@ -35,7 +35,7 @@ Tiliä ei ole.
 
 Vuosikertomus ja toiminnantarkastajien lausunto katselmoitu.
 
-## Vuoden 2020 katselmointi (käsitelty ![06.02.2021 kokouksessa](Kokouset/20210206/Hallituksenkokous.md))
+## Vuoden 2020 katselmointi (käsitelty ![06.02.2021 kokouksessa](/Kokouset/20200608_vuosikokous/Vuosikokous%201%208.6.2020.md))
 
 - Vuonna 2020 Kyberkillasta tehtiin rekisteröity yhdistys
 - Alkuvuodesta 29.1-11.3. kokoontumisia JAMKin Relaamossa.
