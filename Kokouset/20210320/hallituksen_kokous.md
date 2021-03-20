@@ -97,12 +97,12 @@ Koskela esittää torstaita 8.4.2021 kello 16
   * Hyväksytään
 
   Torstai 8.4.2021 
-  Asialistaehdotus:  
-    * Uuden hallituksen ilmoittamiseen liittyvät asiat
-    * Kyberkillan toiminnan jatkuminen kesäkaudella
-    * Virkistäytymistoiminta
-    * Kyberkilta-haalarimerkit
-    * Tulevien CTF-tapahtumien selvitys
+  Asialistaehdotus:
+  * Uuden hallituksen ilmoittamiseen liittyvät asiat
+  * Kyberkillan toiminnan jatkuminen kesäkaudella
+  * Virkistäytymistoiminta
+  * Kyberkilta-haalarimerkit
+  * Tulevien CTF-tapahtumien selvitys
   
 ## 11. Lopetus
 
