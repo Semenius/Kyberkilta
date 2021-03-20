@@ -12,7 +12,7 @@ Paikallaolijat:
 - Tuukka Bordi
                 
                 
-## 2. valitaan kokouksen puheenjohtaja, sihteeri, kaksi pöytäkirjantarkastajaa ja tarvittaessa kaksi ääntenlaskijaa
+## 2. Valitaan kokouksen puheenjohtaja, sihteeri, kaksi pöytäkirjantarkastajaa ja tarvittaessa kaksi ääntenlaskijaa
 
 Puheenjohtaja: Thomas Semenius
 
@@ -25,12 +25,12 @@ Halkosaari esittää, että pöytäkirjantarkastajat toimisivat tarvittaessa my�
 Hyväksytään.
 
 
-## 3. todetaan kokouksen laillisuus ja päätösvaltaisuus
+## 3. Todetaan kokouksen laillisuus ja päätösvaltaisuus
 
 Kokous on laillinen ja päätösvaltainen.
 
 
-## 4. hyväksytään kokouksen työjärjestys
+## 4. Hyväksytään kokouksen työjärjestys
 
 Työjärjestys:  
 
@@ -65,7 +65,7 @@ Lehtiniemi esitti jäsenmaksuksi 0 € Kyberkillan vuosikokouksessa.
 Esityksen mukaan jäsenmaksuksi päätetään 0 €.
 
 
-## 7. Alumni- ja/tai Kannatustoiminta
+## 7. Alumni- ja/tai kannatustoiminta
 
 Pätsi esittää alumnitoiminnan mahdollistamisen Kyberkillan säännöissä.
   * Nimellinen jäsenyys/kannatusmaksu
