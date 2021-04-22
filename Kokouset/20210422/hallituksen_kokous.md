@@ -1,16 +1,16 @@
 ## 1. Kyberkillan hallituksen kokouksen avaus 22.04.2021
 
-Kellonaika: 
+Kellonaika: 16:11
 
-Paikallaolijat:   
+Paikallaolijat: 
 
                 
                 
 ## 2. Valitaan kokouksen puheenjohtaja, sihteeri, kaksi pöytäkirjantarkastajaa ja tarvittaessa kaksi ääntenlaskijaa
 
-Puheenjohtaja: 
+Puheenjohtaja: Thomas Semenius
 
-Sihteeri: 
+Sihteeri: Lassi Halkosaari
 
 Kaksi pöytäkirjantarkastajaa: 
 
